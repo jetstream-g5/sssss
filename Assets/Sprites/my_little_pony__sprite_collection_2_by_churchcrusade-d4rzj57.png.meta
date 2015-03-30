@@ -1,0 +1,1694 @@
+fileFormatVersion: 2
+guid: db01df42b07913343afca2840fcb2c4a
+timeCreated: 1425994194
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_0
+    21300002: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_1
+    21300004: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_2
+    21300006: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_3
+    21300008: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_4
+    21300010: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_5
+    21300012: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_6
+    21300014: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_7
+    21300016: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_8
+    21300018: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_9
+    21300020: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_10
+    21300022: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_11
+    21300024: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_12
+    21300026: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_13
+    21300028: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_14
+    21300030: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_15
+    21300032: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_16
+    21300034: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_17
+    21300036: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_18
+    21300038: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_19
+    21300040: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_20
+    21300042: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_21
+    21300044: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_22
+    21300046: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_23
+    21300048: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_24
+    21300050: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_25
+    21300052: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_26
+    21300054: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_27
+    21300056: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_28
+    21300058: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_29
+    21300060: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_30
+    21300062: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_31
+    21300064: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_32
+    21300066: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_33
+    21300068: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_34
+    21300070: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_35
+    21300072: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_36
+    21300074: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_37
+    21300076: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_38
+    21300078: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_39
+    21300080: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_40
+    21300082: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_41
+    21300084: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_42
+    21300086: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_43
+    21300088: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_44
+    21300090: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_45
+    21300092: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_46
+    21300094: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_47
+    21300096: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_48
+    21300098: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_49
+    21300100: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_50
+    21300102: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_51
+    21300104: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_52
+    21300106: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_53
+    21300108: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_54
+    21300110: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_55
+    21300112: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_56
+    21300114: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_57
+    21300116: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_58
+    21300118: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_59
+    21300120: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_60
+    21300122: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_61
+    21300124: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_62
+    21300126: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_63
+    21300128: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_64
+    21300130: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_65
+    21300132: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_66
+    21300134: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_67
+    21300136: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_68
+    21300138: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_69
+    21300140: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_70
+    21300142: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_71
+    21300144: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_72
+    21300146: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_73
+    21300148: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_74
+    21300150: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_75
+    21300152: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_76
+    21300154: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_77
+    21300156: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_78
+    21300158: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_79
+    21300160: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_80
+    21300162: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_81
+    21300164: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_82
+    21300166: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_83
+    21300168: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_84
+    21300170: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_85
+    21300172: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_86
+    21300174: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_87
+    21300176: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_88
+    21300178: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_89
+    21300180: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_90
+    21300182: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_91
+    21300184: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_92
+    21300186: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_93
+    21300188: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_94
+    21300190: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_95
+    21300192: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_96
+    21300194: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_97
+    21300196: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_98
+    21300198: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_99
+    21300200: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_100
+    21300202: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_101
+    21300204: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_102
+    21300206: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_103
+    21300208: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_104
+    21300210: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_105
+    21300212: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_106
+    21300214: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_107
+    21300216: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_108
+    21300218: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_109
+    21300220: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_110
+    21300222: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_111
+    21300224: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_112
+    21300226: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_113
+    21300228: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_114
+    21300230: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_115
+    21300232: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_116
+    21300234: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_117
+    21300236: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_118
+    21300238: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_119
+    21300240: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_120
+    21300242: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_121
+    21300244: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_122
+    21300246: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_123
+    21300248: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_124
+    21300250: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_125
+    21300252: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_126
+    21300254: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_127
+    21300256: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_128
+    21300258: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_129
+    21300260: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_130
+    21300262: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_131
+    21300264: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_132
+    21300266: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_133
+    21300268: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_134
+    21300270: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_135
+    21300272: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_136
+    21300274: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_137
+    21300276: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_138
+    21300278: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_139
+    21300280: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_140
+    21300282: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_141
+    21300284: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_142
+    21300286: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_143
+    21300288: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_144
+    21300290: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_145
+    21300292: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_146
+    21300294: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_147
+    21300296: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_148
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 47
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 43
+        height: 49
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 430
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 430
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 437
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 430
+        width: 46
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 429
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 429
+        width: 47
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 441
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 430
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 430
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 430
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 440
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 430
+        width: 46
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 429
+        width: 47
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 429
+        width: 47
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 441
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 382
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 382
+        width: 9
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 382
+        width: 10
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 400
+        width: 17
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 401
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 400
+        width: 23
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_22
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 397
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 396
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_24
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 395
+        width: 28
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_25
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 382
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_26
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 382
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_27
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 382
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_28
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 389
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 335
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 334
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 334
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 335
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_34
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 335
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 335
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 344
+        width: 32
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_37
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 344
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_38
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 350
+        width: 28
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_39
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 349
+        width: 28
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_40
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 348
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_41
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 335
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 335
+        width: 9
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_43
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 335
+        width: 10
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_44
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 335
+        width: 46
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_45
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 335
+        width: 46
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_46
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 335
+        width: 46
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 304
+        width: 26
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_48
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 304
+        width: 29
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 303
+        width: 31
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 302
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 287
+        width: 42
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_52
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 287
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_54
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 289
+        width: 42
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_55
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 289
+        width: 42
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_56
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 287
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_57
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 287
+        width: 70
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_58
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 287
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_59
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 286
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_60
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 286
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_61
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 299
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_62
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 298
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 46
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 239
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_65
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 239
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 239
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_67
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 239
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 239
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_69
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 239
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_70
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 239
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_71
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 239
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_72
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 256
+        width: 26
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_73
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 256
+        width: 29
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_74
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 255
+        width: 31
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_75
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 251
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_76
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 238
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_77
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 238
+        width: 28
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 239
+        width: 29
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 203
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 202
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 191
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_82
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 191
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_83
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 204
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_84
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 202
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_85
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 202
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_86
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 191
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_87
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 191
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_88
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 191
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_89
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 198
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_90
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 191
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_91
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 191
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_92
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 191
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_93
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 193
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_94
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 190
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_95
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 190
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_97
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 142
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_98
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 142
+        width: 42
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_99
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 154
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_100
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 143
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_101
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 143
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_102
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 143
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_103
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 143
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_104
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 143
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_105
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 143
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_106
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 144
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_107
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 144
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_108
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_109
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 145
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_110
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 142
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_111
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 153
+        width: 28
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_112
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 153
+        width: 28
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_113
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 152
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 112
+        width: 26
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_115
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 29
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_116
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 31
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_117
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 105
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_118
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 110
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_119
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 105
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_120
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 95
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_121
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 95
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_122
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 95
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_123
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 108
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_124
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 107
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_125
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 106
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_126
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 46
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_127
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 46
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_128
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 46
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_129
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 55
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_130
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 47
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_131
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 47
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_132
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 47
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_133
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 56
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 47
+        width: 43
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_135
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 47
+        width: 43
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_136
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 47
+        width: 43
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_137
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 56
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_138
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 57
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_139
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 47
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_140
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 47
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_141
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_142
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_143
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_144
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_145
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_146
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_147
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: my_little_pony__sprite_collection_2_by_churchcrusade-d4rzj57_148
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
